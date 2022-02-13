@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @aelmastas
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 elmastasahmet13@gmail.com
 
 <!---
